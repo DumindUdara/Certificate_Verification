@@ -35,10 +35,9 @@ Additionally, the website may include additional features such as search functio
 ![image](https://github.com/DumindUdara/Certificate_Verification/assets/98957798/6f522a02-3878-4395-8f1e-0511db82c0a3)
 
 
+Adming Page Details 
 
-# Adming Page Details 
-
-•	User name: test2@gamil.com
-•	Password: - qwerty12345
+  User name: test2@gamil.com
+  Password: - qwerty12345
 
 Live Demmostration : https://forgear.com.lk/
