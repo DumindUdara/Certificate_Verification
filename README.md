@@ -36,4 +36,9 @@ Additionally, the website may include additional features such as search functio
 
 
 
+# Adming Page Details 
 
+•	User name: test2@gamil.com
+•	Password: - qwerty12345
+
+Live Demmostration : https://forgear.com.lk/
